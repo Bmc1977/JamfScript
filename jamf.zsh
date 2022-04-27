@@ -5,3 +5,4 @@ cd ConfigurationProfiles
 mkdir Settings
 touch Settings/.profilesAreInstalled
 profiles renew -type enrollment
+jamf recon
